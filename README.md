@@ -86,17 +86,7 @@ version/1.2.3
 
 需求分支: feature/{feature-name}
 实例：
-featurepush-notification
-feature/login
-
-个人分支: 
-person/{developer-fullname}/{what-for}
-实例：
-person/gongbenwuzang/network-cache
-person/jimgreen/bugfix-12345-crash
-
-tag: 
-v{version-code}
+featurepush-notification v{version-code}
 实例：
 v1.2.3
 
