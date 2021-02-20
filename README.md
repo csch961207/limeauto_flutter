@@ -72,6 +72,8 @@ PR Close #1
 [git commit 规范](https://xrkffgg.js.cool/Knotes/standard/#_1-2-git-commit-%E8%A7%84%E8%8C%83)
 
 [Commit message 和 Change log 编写指南](https://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+
+[Change log 生成工具](https://www.npmjs.com/package/standard-version)
 <br/>
 <br/>
 
